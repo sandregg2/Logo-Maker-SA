@@ -20,4 +20,4 @@
 ## Demo Video
 - https://watch.screencastify.com/v/F50PTvEHg03rItpUuZE2
 ## Screenshot from demo
-- <svg version="1.1" width="300" height="200" xmlns="http://www.w3.org/2000/svg"><g>Square<rect x="73" y="40" width="160" height="160" fill="Black"/><text x="150" y="130" text-anchor="middle" font-size="40" fill="Red">SAA</text></g>
+<img width="500" alt="logo.svg" src="https://github.com/sandregg2/Work-Day-Scheduler-SA/blob/main/Images/Screenshot%202023-03-27%20192934.png?raw=true">
