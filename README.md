@@ -17,4 +17,4 @@
 ## Usage
 - Create a logo with shapes and colors using node in the terminal
 ## Demo Video
--
+- https://watch.screencastify.com/v/F50PTvEHg03rItpUuZE2
