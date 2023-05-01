@@ -5,7 +5,7 @@
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
-* [Demo video](#Demo video)
+* [Demo video](#Demo-video)
 ## Installation
 1. Clone/download this repo to your computer
 2. Open this repo in VSCode
@@ -16,5 +16,5 @@
 7. Logo is created and should go into the repo as 'logo.svg'
 ## Usage
 - Create a logo with shapes and colors using node in the terminal
-# Demo Video
+## Demo Video
 -
