@@ -6,7 +6,7 @@
 * [Installation](#installation)
 * [Usage](#usage)
 * [Demo video](#Demo-video)
-* [Screenshot of logo from demo] #Screenshot-from-demo
+* [Screenshot of logo from demo](#Screenshot-from-demo)
 ## Installation
 1. Clone/download this repo to your computer
 2. Open this repo in VSCode
