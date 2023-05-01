@@ -16,5 +16,5 @@
 7. Logo is created and should go into the repo as 'logo.svg'
 ## Usage
 - Create a logo with shapes and colors using node in the terminal
-## Demo Video
+# Demo Video
 -
