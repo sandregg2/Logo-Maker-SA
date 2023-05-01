@@ -18,6 +18,6 @@
 ## Usage
 - Create a logo with shapes and colors using node in the terminal
 ## Demo Video
-- https://watch.screencastify.com/v/F50PTvEHg03rItpUuZE2
+- https://drive.google.com/file/d/1naCmxiwU0IBck2R_zN22xCmV6ZgYN810/view
 ## Screenshot from demo
 <img width="500" alt="logo.svg" src="https://github.com/sandregg2/Logo-Maker-SA/blob/main/logo.svg">
