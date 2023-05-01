@@ -20,4 +20,4 @@
 ## Demo Video
 - https://watch.screencastify.com/v/F50PTvEHg03rItpUuZE2
 ## Screenshot from demo
-<img width="500" alt="logo.svg" src="https://github.com/sandregg2/Work-Day-Scheduler-SA/blob/main/Images/Screenshot%202023-03-27%20192934.png?raw=true">
+<img width="500" alt="logo.svg" src="https://github.com/sandregg2/Logo-Maker-SA/blob/main/logo.svg">
